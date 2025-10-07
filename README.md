@@ -5,4 +5,4 @@
 - how to delete from an array 
 
 this is just logic focused app 
-![Alt text](Screenshot 2025-10-07 162920.png)
+<img src="https://github.com/KSNauman/ToDo-React/blob/main/Screenshot%202025-10-07%20162920.png">
